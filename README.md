@@ -25,7 +25,7 @@ Etapa 3:
 - [serviço de criação e gerenciamento de servidores]
 - [será utilizado para rodar e criar um site de agendamento, pagamento, notificação ao cliente sobre o medicamento. Além é claro de consumir e mostrar os dados salvos no RDS no site criado. Isso tudo facilita as vendas em periodos de altas demandas, melhora a experiência do usuário e otimiza o atendimento.]
 
-## ConclusÃ£o
+## Conclusão
 A implementação de ferramentas na empresa Farmacos Brasil tem como esperado facilitar e agilizar o atendimento e as vendas, aumentar as vendas, garantir melhor gerenciamento do negócio pela visualização rápida dos dados, garantir backup automático dos dados e garantir uma melhor integração com outras farmácias parceiras, o que aumentara a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
